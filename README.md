@@ -10,7 +10,7 @@
 
 # smp
 
-A Django project built using [n0tNoah/django-cookiecutter-rest](https://github.com/n0tNoah/django-cookiecutter-rest)
+A Django project 
 
 ## Dev-Setup
 
@@ -90,3 +90,5 @@ python3 manage.py runserver
     Outcomes:
         PASS: NA
         FAIL: NA
+
+##### built using [n0tNoah/django-cookiecutter-rest](https://github.com/n0tNoah/django-cookiecutter-rest)
